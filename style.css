@@ -1,0 +1,186 @@
+*{
+    text-shadow: 2px 2px rgb(20, 180, 20);
+    box-sizing: border-box;
+}
+#num1
+{
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    border-style: solid;
+    width: 500px;
+    height: 550px;
+    background-color: rgb(209, 206, 206);
+}
+#num2
+{
+    border-style: solid;
+    margin-top:10px ;
+    width: 470px;
+    height: 110px;
+    margin-left:8px;
+    background-color: rgb(250, 250, 208);
+    display:flex;
+     align-items: end;
+    flex-direction: column-reverse;
+}
+#num3
+{
+    border-style: solid;
+    margin-top: 10px; 
+    margin-left: 2px;
+    width: 485px;
+    height: 410px;
+}
+#num4,#num4,#num5,#num6,#num7,#num8
+{
+    
+  border-radius: 12px;
+  
+   
+    margin-top:3px ;
+    width: 470px;
+    height: 70px;
+    margin-left:3px;
+    display: flex;
+    align-items: center;
+    
+justify-content: space-around;
+}
+#num9,#num10,#num11
+{
+    border-style: solid;
+    margin-top:1px ;
+    width: 70px;
+    height: 55px;
+    margin-left:3px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgb(187, 151, 221);
+}
+#num12
+{
+    border-style: solid;
+    margin-top:1px ;
+    width: 90px;
+    height: 55px;
+    margin-left:3px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 50%;
+    background-color: rgb(187, 151, 221);
+}
+#num13,#num14,#num15
+{
+    border-style: solid;
+    margin-top:1px ;
+    width: 70px;
+    height: 55px;
+    margin-left:3px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgb(187, 151, 221);
+}
+#num16
+{
+    border-style: solid;
+    margin-top:1px ;
+    width: 90px;
+    height: 55px;
+    margin-left:3px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 50%;
+    background-color: rgb(187, 151, 221);
+}
+#num17,#num18,#num19
+{
+    border-style: solid;
+    margin-top:1px ;
+    width: 70px;
+    height: 55px;
+    margin-left:3px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgb(187, 151, 221);
+}
+#num20
+{
+    border-style: solid;
+    margin-top:1px ;
+    width: 90px;
+    height: 55px;
+    margin-left:3px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 50%;
+    background-color: rgb(187, 151, 221);
+}
+#num21,#num22,#num23
+{
+    border-style: solid;
+    margin-top:1px ;
+    width: 70px;
+    height: 55px;
+    margin-left:3px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgb(187, 151, 221);
+}
+#num24
+{
+    border-style: solid;
+    margin-top:1px ;
+    width: 90px;
+    height: 55px;
+    margin-left:3px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 50%;
+    background-color: rgb(187, 151, 221);
+}
+#num25,#num27
+{
+    border-style: solid;
+    margin-top:1px ;
+    width: 70px;
+    height: 55px;
+    margin-left:3px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgb(187, 151, 221);
+}
+#num26
+{
+    border-style: solid;
+    margin-top:1px ;
+    width: 70px;
+    height: 55px;
+    margin-left:3px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color:rgb(240, 76, 76);
+}
+
+#num28
+{
+    border-style: solid;
+    margin-top:1px ;
+    width: 90px;
+    height: 55px;
+    margin-left:3px;
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    border-radius: 50%;
+    background-color: rgb(32, 160, 235);
+}
